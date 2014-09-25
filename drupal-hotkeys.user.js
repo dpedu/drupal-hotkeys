@@ -3,6 +3,7 @@
 // @namespace	kirkland
 // @version		0.1.1
 // @include		*://*rit.edu*
+// @updateURL   https://github.com/iamkirkbater/drupal-hotkeys/raw/master/drupal-hotkeys.user.js
 // @description	Using a pre-defined hotkey, quickly switch from HTTPS to HTTP or vice versa.
 // ==/UserScript==
 
